@@ -1,7 +1,5 @@
 {
-  "name": "application-name",
+  "name": "02_Task",
   "version": "0.0.1",
-  "dependencies": {
-    "body-parser": "^1.17.1"
-  }
+  "private": true
 }
