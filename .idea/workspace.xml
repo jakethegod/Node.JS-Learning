@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2ff73474-7ae8-40a5-be04-09a872ef9674" name="Default" comment="Task_02">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/Node.JS-Learning.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02_Task/.idea/01_Task.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02_Task/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02_Task/.idea/workspace.xml" afterPath="" />
+    <list default="true" id="2ff73474-7ae8-40a5-be04-09a872ef9674" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <manually-removed-from-ignored>
       <directory path="$PROJECT_DIR$/.tmp/" />
@@ -313,7 +307,7 @@
       <workItem from="1490790098850" duration="206000" />
       <workItem from="1490790316864" duration="70000" />
       <workItem from="1490790566085" duration="3078000" />
-      <workItem from="1490794879853" duration="810000" />
+      <workItem from="1490794879853" duration="883000" />
     </task>
     <task id="LOCAL-00001" summary="Task 01">
       <created>1490187355578</created>
@@ -357,11 +351,18 @@
       <option name="project" value="LOCAL" />
       <updated>1490795498543</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Task_02">
+      <created>1490795695858</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1490795695858</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24247000" />
+    <option name="totallyTimeSpent" value="24320000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
