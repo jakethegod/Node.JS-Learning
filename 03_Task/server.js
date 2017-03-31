@@ -3,21 +3,20 @@ var express = require('express')
     , port = process.env.PORT || 3000;
 const assert = require('assert');
 
-function test(a, b)
-{
-    assert.equal(typeof a,"string", "аргумент a должен быть числом");
-    assert.equal(typeof b,"string", "аргумент b должен быть числом");
-}
-
-
 app.get('/api/a/:a/b/:b',function(req,res){
     test(req.params.a,req.params.b);
 
     var mult = req.params.a*req.params.b;
     res.json({mult:mult});
-    });
+    exports(mult)
+});
 
-
+app.all('/app',function(req,res){
+    res.send(req.params)
+    //var mult = req.params.a*req.params.b;
+    //res.json({mult:mult});
+    //exports(mult)
+});
 
 
 app.listen(port, function () {

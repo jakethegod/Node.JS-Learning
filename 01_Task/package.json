@@ -1,5 +1,15 @@
 {
-  "name": "01_Task",
+  "name": "server.js",
   "version": "0.0.1",
-  "private": true
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "devDependencies": {
+    "express": "^4.15.2"
+  },
+  "main": "server.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
